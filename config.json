@@ -1,0 +1,12 @@
+{
+    "_comment": "Copy this file to config.json and fill in your values. The DISCORD_TOKEN env var overrides the token here.",
+    "token": "MTUzNjgxMTY2OTE3NzYzODk2Mg.GuStY3.YHG0rMJJxBuCFx3pyhGvxNj9ZxVaIPyMs5sx1s",
+    "bot_name": "RoGiveaways Bot",
+    "prefix": "!",
+    "react_emoji": "🎉",
+    "embed_color": "5865F2",
+    "db_file": "giveaways.db",
+    "allowed_roles": [],
+    "check_interval": 30,
+    "announcement_channel": null
+}
